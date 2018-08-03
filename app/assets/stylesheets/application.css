@@ -1,0 +1,35 @@
+:root {
+    margin: 50px; 
+}
+div {
+    font-family:'Courier New', Courier, monospace;
+}
+div.sidebar {
+    float: left;
+    text-align: center;
+    position: fixed;
+    top:250px;
+    width: 10%;
+    height: 700px;
+}
+
+div.projects {
+    right: 500px;
+    float:center;
+    height:300px;
+    width: 600px;
+    left: 420px; 
+    top: 110px; 
+    position: absolute; 
+    margin-top: 0px;
+
+
+}
+
+div.experience {
+    float:center;
+    left: 420px; 
+    top: 500px; 
+    position: absolute; 
+    margin-top: 0px;
+}
