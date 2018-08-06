@@ -55,5 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bundler', '>= 1.8.4'
 
+gem 'commands'
+
 
 ruby "2.3.3"

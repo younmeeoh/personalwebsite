@@ -61,7 +61,7 @@ $clr-gray: rgba(black, .7);
 .experience {
     float:left;
     width: 15%;
-    top: 30%; 
+    top: 32%; 
     position: absolute; 
     margin-top: 0px;
 }
@@ -126,7 +126,9 @@ blockquote {
 
 .card {
   position: relative;
-  margin: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 1em;
   background: $clr-gray;
   &::before,
   &::after {

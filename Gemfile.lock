@@ -68,6 +68,8 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
+    commands (0.2.1)
+      rails (>= 3.2.0)
     concurrent-ruby (1.0.5)
     crass (1.0.4)
     erubi (1.7.1)
@@ -182,6 +184,7 @@ DEPENDENCIES
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
+  commands
   jbuilder (~> 2.5)
   pg
   puma (~> 3.7)
