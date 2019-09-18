@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First project I did to explore coding and see if I liked programming. It was a great experience although I did only intermediate work at most. 
+
+Used as resume website.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version:
 
-* System dependencies
+* Using Ruby on Rails
 
 * Configuration
 
-* Database creation
+* Database creation:
 
-* Database initialization
+* Database initialization:
 
-* How to run the test suite
+* Deployment : https://dashboard.heroku.com/apps/personalwebsiteyoh
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
