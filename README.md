@@ -4,11 +4,9 @@ First project I did to explore coding and see if I liked programming. It was a g
 
 Used as resume website.
 
-Things you may want to cover:
-
 * Ruby version:1.3.1
 
-* Using Ruby on Rails
+* Server-Side Framework: Ruby on Rails
 
 * Database creation: PostgreSQL
 
