@@ -8,7 +8,7 @@ First project I did to explore coding and see if I liked programming. It was a g
 
 - Server-Side Framework: Ruby on Rails
 
-- Database creation: PostgreSQL
+- Database creation: Postgres
 
 - Deployment : https://dashboard.heroku.com/apps/personalwebsiteyoh
 
