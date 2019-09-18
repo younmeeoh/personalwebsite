@@ -6,15 +6,11 @@ Used as resume website.
 
 Things you may want to cover:
 
-* Ruby version:
+* Ruby version:1.3.2
 
 * Using Ruby on Rails
 
-* Configuration
-
-* Database creation:
-
-* Database initialization:
+* Database creation: PostgreSQL
 
 * Deployment : https://dashboard.heroku.com/apps/personalwebsiteyoh
 
