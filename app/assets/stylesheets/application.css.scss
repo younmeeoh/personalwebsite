@@ -69,11 +69,10 @@ $clr-gray: rgba(black, .7);
 .activities {
   text-align: left;
   align: right;
-  right: 1200px;
   float:right;
   width: 20%;
   top: 10%;
-  position: absolute;
+  position: relative;
   margin-top:0px;
 }
 
